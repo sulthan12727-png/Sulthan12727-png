@@ -26,9 +26,37 @@ Here are arcade games generated from my GitHub contributions!
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/pacman-contribution-graph.svg">
 </picture>
 
+### 🧱 Breakout
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/breakout-contribution-graph.svg">
+    <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/breakout-contribution-graph.svg">
+</picture>
+
 ### 🚀 Galaga
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/galaga-contribution-graph.svg">
     <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/galaga-contribution-graph.svg">
+</picture>
+
+### 🔮 Puzzle Bobble
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/puzzle-bobble-contribution-graph.svg">
+    <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/puzzle-bobble-contribution-graph.svg">
+</picture>
+
+### 💣 Bomberman
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/bomberman-contribution-graph.svg">
+    <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/bomberman-contribution-graph.svg">
+</picture>
+
+### 🚩 Minesweeper
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/minesweeper-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/minesweeper-contribution-graph.svg">
+    <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/sulthan12727-png/sulthan12727-png/main/dist/minesweeper-contribution-graph.svg">
 </picture>

@@ -22,8 +22,8 @@ jobs:
       - name: Generate Arcade Games
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper'
+          github_user_name: 'abozanona'
+          games: 'pacman,galaga'
           
       - name: Commit & Push generated files
         uses: stefanzweifel/git-auto-commit-action@v5
